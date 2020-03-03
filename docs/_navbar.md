@@ -1,13 +1,13 @@
 * 求职指南
-
-  * [指导](findwork/guide/guide.md)
-  * [简历](findwork/guide/resume.md)
+  * [指导](求职/求职指南/指导.md)
+  * [简历](求职/求职指南/简历.md)
+  * [防坑](求职/求职指南/简历.md)
 * 面试题
-  * [前段](findwork/front-end/)
-  * [后端](findwork/back-end/)
-  * [测试](findwork/test/)
-  * [运维](findwork/devops/)
-  * [算法](findwork/algorithm/)
-  * [场景](findwork/scene/)
+  * [前段](求职/面试题/前端题/)
+  * [后端](求职/面试题/后端题/)
+  * [测试](求职/test/)
+  * [运维](求职/devops/)
+  * [算法](求职/面试题/算法题/)
+  * [场景](求职/面试题/场景题/)
 * 招聘
-  * [内推](findwork/recruit/recruit)
+  * [内推](求职/招聘/招聘)
