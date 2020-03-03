@@ -7,5 +7,5 @@
 
 [Get Started](/)
 [Github](https://github.com/zileixu/lmn-place.git)
-[关于我们](/about/about)
+[关于我们](/关于/关于我们)
 
